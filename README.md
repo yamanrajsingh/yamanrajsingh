@@ -14,6 +14,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+## About Me
 * 🌍  I'm based in Aligarh, India
 * 🔭 I’m currently working on various React Applications.
 * 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
