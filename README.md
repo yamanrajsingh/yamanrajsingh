@@ -48,10 +48,5 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&locale=en" alt="yamanrajsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&" alt="yamanrajsingh" /></p>
-
-<p align="center" >
-  <a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
-    <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/yamanrajsingh?theme=dark&font=Paprika" />
-  </a>
-</p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&" alt="yamanrajsingh" /> &nbsp; <a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
+    <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/yamanrajsingh?theme=dark&font=Paprika" /> </p>
