@@ -45,8 +45,15 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 </br>
 <h2>My Github Status 📊</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamanrajsingh&show_icons=true&locale=en&layout=compact" alt="yamanrajsingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&locale=en" alt="yamanrajsingh" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&" alt="yamanrajsingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&locale=en" alt="yamanrajsingh" /></p>
-
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&" alt="yamanrajsingh" /><a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
+<h2>LeetCode Status 📊</h2>
+<p> <a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
     <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/yamanrajsingh?ext=heatmap" /> </p>
+ 
+ <h2>Hackerrank Status 📊</h2>
+ <p>  <a href="https://www.hackerrank.com/yamanrajsingh07" target="blank">
+   <img src="https://github.com/yamanrajsingh/yamanrajsingh/blob/main/Badges.png" alt="Badges"/>
+ <img src="https://github.com/yamanrajsingh/yamanrajsingh/blob/main/certificates.png" alt="Badges"/>
+ </p>
