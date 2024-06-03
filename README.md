@@ -16,8 +16,8 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 ## About Me
 * 🌍  I'm based in Aligarh, India
-* 🔭 I’m currently working on various React Applications.
-* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
+* 🔭 I’m currently working on  React-Native Android Applications.
+* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms and React-Native.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
 * 📫 How to reach me **yamanrajsingh07@gmail.com**
