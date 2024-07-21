@@ -1,6 +1,6 @@
  <img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%" height="auto" />
 <h1 align="center">Hi 👋, I'm Yaman Raj Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 </br>
 <p>An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.<br/>
 I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
@@ -15,7 +15,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## About Me
-* 🌍  I'm based in Aligarh, India
+* 🌍  I'm from Aligarh, India
 * 🔭 I’m currently working on  React-Native Android Applications.
 * 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms and React-Native.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
