@@ -53,9 +53,21 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <h2>LeetCode Status 📊</h2>
 <p> <a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
     <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/yamanrajsingh?ext=heatmap" /> </p>
+    <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanrajsingh&theme=react-dark" alt="GitHub Activity Graph">
+</div>
+
+    
  
  <h2>Hackerrank Status 📊</h2>
  <p>  <a href="https://www.hackerrank.com/yamanrajsingh07" target="blank">
    <img src="https://github.com/yamanrajsingh/yamanrajsingh/blob/main/Badges.png" alt="Badges"/>
  <img src="https://github.com/yamanrajsingh/yamanrajsingh/blob/main/certificates.png" alt="Badges"/>
  </p>
+
+
+<br />
+
+<div class="center">
+    <h3 class="center">Show some ❤️ by starring some of the repositories!</h3>
+</div>
