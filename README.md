@@ -1,4 +1,4 @@
- <img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%" height="auto" />
+ <img align="center" alt="GIF" clear="both" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="50%" />
 <h1 align="center">Hi 👋, I'm Yaman Raj Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 </br>
@@ -8,11 +8,11 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamanrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yamanrajsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamanrajsingh" alt="yamanrajsingh" /></a> </p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=yamanrajsingh&theme=onedark)](https://github.com/yamanrajsingh/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/yamanrajsingh" target="blank"><img src="https://img.shields.io/twitter/follow/yamanrajsingh?logo=twitter&style=for-the-badge" alt="yamanrajsingh" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 ## About Me
 * 🌍  I'm from Aligarh, India
@@ -46,16 +46,16 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 </br>
 <h2>My Github Status 📊</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamanrajsingh&show_icons=true&locale=en&layout=compact" alt="yamanrajsingh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&locale=en" alt="yamanrajsingh" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&" alt="yamanrajsingh" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamanrajsingh&theme=github_dark" alt="yamanrajsingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&theme=tokyonight" alt="yamanrajsingh" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D" alt="yamanrajsingh" /></p>
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamanrajsingh&theme=github_dark" alt="yamanrajsingh" /></p>
+
+
 
 <h2>LeetCode Status 📊</h2>
-<p> <a href="https://github.com/yamanrajsingh/LeetCode-Stats-Card" target="_blank">
-    <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/yamanrajsingh?ext=heatmap" /> </p>
-    <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanrajsingh&theme=react-dark" alt="GitHub Activity Graph">
-</div>
+<p> <a href="https://leetcode.com/u/yamanrajsingh/" target="_blank">
+    <img title="YamanRajSingh LeetCode Stats" alt="YamanRajSingh's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=yamanrajsingh&theme=dark" /> </p>
 
     
  
@@ -67,6 +67,10 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 
 <br />
+
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanrajsingh&bg_color=000000&color=9e4c98&line=9e4c98&point=33862d&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>
 
 <div class="center">
     <h3 class="center">Show some ❤️ by starring some of the repositories!</h3>
