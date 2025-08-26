@@ -41,7 +41,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <h2 align="left">Languages and Tools
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 </br>
-<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,eclipse,express,firebase,git,github,go,html,idea,java,js,mongodb,mysql,nodejs,npm,postman,pycharm,react,tailwind,vscode" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,go,html,css,bootstrap,tailwind,materialui,react,nodejs,express,firebase,hibernate,mysql,postgres,mongodb,dynamodb,vscode,androidstudio,idea,eclipse,pycharm,git,github,npm,postman,docker,aws,maven,bash" alt="My Skills">
 
 
 </br>
