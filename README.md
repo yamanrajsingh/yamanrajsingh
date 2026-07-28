@@ -181,21 +181,21 @@ Full-stack portal serving **1,000+ students & 100+ staff** with 5+ academic/admi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&theme=tokyonight&count_private=true" alt="yamanrajsingh stats" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamanrajsingh&theme=tokyonight" alt="most commit language" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yamanrajsingh&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanrajsingh&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanrajsingh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=yamanrajsingh&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamanrajsingh&theme=tokyonight" alt="profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamanrajsingh&theme=tokyonight"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanrajsingh&bg_color=0d1117&color=6BC0F0&line=6BC0F0&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamanrajsingh&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
