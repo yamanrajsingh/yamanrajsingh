@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yaman%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%40%20Diginique%20TechLabs&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yaman%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BC0F0&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+-+I;Java+%7C+Spring+Boot+%7C+Spring+Security;Building+Scalable+%26+Secure+REST+APIs;Docker+%7C+AWS+%7C+Redis+%7C+Kafka" alt="Typing SVG" /></a>
 
