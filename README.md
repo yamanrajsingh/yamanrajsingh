@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yaman%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yaman%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%40%20Diginique%20TechLabs&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BC0F0&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;MERN+Stack+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BC0F0&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+-+I;Java+%7C+Spring+Boot+%7C+Spring+Security;Building+Scalable+%26+Secure+REST+APIs;Docker+%7C+AWS+%7C+Redis+%7C+Kafka" alt="Typing SVG" /></a>
 
 </div>
 
@@ -10,8 +10,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="45%"/>
 </p>
 
-<p>🚀 A passionate <b>Java Backend Developer</b> with a strong foundation in <b>Data Structures & Algorithms</b>, building scalable, production-ready systems with <b>Spring Boot, Hibernate, and Microservices</b>. I also explore the <b>MERN stack</b> to build full-stack applications end-to-end.<br/><br/>
-I'm a social, curious person who loves taking on new challenges, meeting new people, exchanging ideas, and spreading positivity. Currently on the lookout for a <b>Backend / Full Stack Developer</b> role where I can grow, contribute, and keep learning.</p>
+<p>🚀 <b>Software Development Engineer</b> with hands-on experience designing scalable backend applications using <b>Java, Spring Boot, Spring Security, REST APIs, Hibernate, SQL, Redis, Docker, and AWS</b>. I build secure APIs, optimize database performance, implement authentication systems, and ship enterprise-grade applications in Agile environments.<br/><br/>
+I'm a social, curious person who loves taking on new challenges, meeting new people, exchanging ideas, and spreading positivity. Always looking to write clean, maintainable code and solve complex backend engineering problems.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yamanrajsingh&label=Profile%20views&color=6BC0F0&style=for-the-badge" alt="yamanrajsingh" />
@@ -31,17 +31,92 @@ I'm a social, curious person who loves taking on new challenges, meeting new peo
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 - 🌍 &nbsp;I'm from **Aligarh, India**
-- ☕ &nbsp;I specialize in **Java + Spring Boot** backend development
-- 🔭 &nbsp;Currently building **React-Native Android applications** and **REST APIs**
-- 🌱 &nbsp;Currently sharpening **Spring Boot, Microservices, System Design, DSA & React-Native**
-- 👯 &nbsp;Looking to collaborate on **Open Source Projects**
-- 🤔 &nbsp;Looking for help/collab on **backend-heavy web apps**
+- 💼 &nbsp;Currently working as **SDE-I @ Diginique TechLabs**, building REST APIs for LMS, training platforms & internal tools
+- ☕ &nbsp;I specialize in **Java, Spring Boot, Spring Security & Microservices**
+- 📈 &nbsp;Reduced average API response time by **35%** through query optimization, pagination & indexing
+- 🏗️ &nbsp;Achieved **99.9% application availability** by monitoring & optimizing production services
+- 🌱 &nbsp;Currently sharpening **System Design, Apache Kafka, DSA & Cloud (AWS)**
+- 👯 &nbsp;Looking to collaborate on **Open Source Backend Projects**
+- 🤔 &nbsp;Looking for help/collab on **scalable backend systems**
 - ⚡ &nbsp;Fun fact: **"Don't stop until you are proud."**
 - 💬 &nbsp;Ask me anything — happy to help!
-- 📫 &nbsp;Reach me at **yamanrajsingh07@gmail.com**
+- 📫 &nbsp;Reach me at **yamanrajsingh07@gmail.com** &nbsp;|&nbsp; 📱 **+91 8445899130**
 - 👨‍💻 &nbsp;Portfolio: **[yamanrajsingh.github.io/Portfolio](https://yamanrajsingh.github.io/Portfolio/)**
 
 <br clear="right"/>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Diginique TechLabs
+**Software Development Engineer-I**
+<br/>*Aug 2025 – Present | Remote, India*
+
+- Designed & built REST APIs for LMS, training platforms & internal tools
+- Optimized backend modules, **reducing API response time by 35%** via query optimization, pagination & indexing
+- Implemented **Redis caching** to cut DB load and speed up frequent API calls
+- Achieved **99.9% application availability** through performance monitoring & issue resolution
+- Containerized apps with **Docker** and contributed to **CI/CD** workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Tata Consultancy Services
+**Systems Engineer**
+<br/>*Jan 2025 – Aug 2025 | New Delhi, India*
+
+- Developed & maintained enterprise Java apps using **Spring Boot, SQL & REST APIs** in Agile teams
+- Collaborated with senior engineers on backend enhancements & defect resolution
+- Handled debugging, testing, deployment validation & code reviews
+- Streamlined delivery using **Git, Maven & CI/CD pipelines**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 SnapLink — URL Shortener
+*Jul 2026*
+
+Scalable URL Shortener with **Base62 encoding**, **JWT auth**, and **role-based authorization** via Spring Security. RESTful APIs for shortening, redirection, custom aliases, click tracking & link expiration, backed by Redis caching for fast redirects.
+
+`Java` `Spring Boot` `Spring Security` `JWT` `Hibernate` `PostgreSQL` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 School Administration Portal
+*Oct 2025 – Nov 2025*
+
+Full-stack portal serving **1,000+ students & 100+ staff** with 5+ academic/admin modules, secure role-based auth, and real-time fee & payroll dashboards. Optimized queries improved data retrieval by **25%** and cut manual reporting effort by **60%**.
+
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Next.js` `Maven`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥉 **3rd Rank** — Computer Society of Software Engineers (CSSE) coding contest
+- 🧩 **700+ problems solved** on LeetCode, GeeksforGeeks & HackerRank
+- ⭐ HackerRank Badges: **6★ DSA · 5★ C++ · 4★ SQL**
+- 🎓 **Master of Computer Applications** — Madan Mohan Malaviya University of Technology, Gorakhpur (CGPA: 8.79/10)
+- 📜 Certified: Software Engineer Intern (HackerRank) · Java for Beginners (Udemy) · JavaScript (Basic) · Golang · Problem Solving (HackerRank) · Career Essentials in Software Development (Microsoft & LinkedIn)
 
 ---
 
@@ -59,21 +134,46 @@ I'm a social, curious person who loves taking on new challenges, meeting new peo
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
 <p align="center">
-  <b>Core Backend Stack (Java)</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb"/>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,c"/>
 </p>
 
 <p align="center">
-  <b>Full Stack / MERN & Mobile</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,firebase,html,css,bootstrap,tailwind,materialui,androidstudio"/>
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-6BC0F0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>Languages, DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,git,github,docker,aws,dynamodb,idea,eclipse,pycharm,vscode,npm,postman,bash"/>
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<p align="center">
+  <b>Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase"/>
+</p>
+
+<p align="center">
+  <b>Cloud, DevOps & Messaging</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,kafka"/>
+</p>
+
+<p align="center">
+  <b>Testing & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,maven"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-C5B358?style=for-the-badge"/>
 </p>
 
 ---
