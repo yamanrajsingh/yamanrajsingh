@@ -31,7 +31,7 @@ I'm a social, curious person who loves taking on new challenges, meeting new peo
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 - 🌍 &nbsp;I'm from **Aligarh, India**
-- 💼 &nbsp;Currently working as **Systems Engineer @ Tata Consultancy Services**, building REST APIs for LMS, training platforms & internal tools
+- 💼 &nbsp;Currently working as **Systems Engineer @ Tata Consultancy Services**, building REST APIs for Enterprise application.
 - ☕ &nbsp;I specialize in **Java, Spring Boot, Spring Security & Microservices**
 - 📈 &nbsp;Reduced average API response time by **35%** through query optimization, pagination & indexing
 - 🏗️ &nbsp;Achieved **99.9% application availability** by monitoring & optimizing production services
