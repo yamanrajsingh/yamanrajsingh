@@ -31,7 +31,7 @@ I'm a social, curious person who loves taking on new challenges, meeting new peo
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 - 🌍 &nbsp;I'm from **Aligarh, India**
-- 💼 &nbsp;Currently working as **SDE-I @ Diginique TechLabs**, building REST APIs for LMS, training platforms & internal tools
+- 💼 &nbsp;Currently working as **Systems Engineer @ Tata Consultancy Services**, building REST APIs for LMS, training platforms & internal tools
 - ☕ &nbsp;I specialize in **Java, Spring Boot, Spring Security & Microservices**
 - 📈 &nbsp;Reduced average API response time by **35%** through query optimization, pagination & indexing
 - 🏗️ &nbsp;Achieved **99.9% application availability** by monitoring & optimizing production services
@@ -51,26 +51,14 @@ I'm a social, curious person who loves taking on new challenges, meeting new peo
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🏢 Diginique TechLabs
-**Software Development Engineer-I**
-<br/>*Aug 2025 – Present | Remote, India*
-
-- Designed & built REST APIs for LMS, training platforms & internal tools
-- Optimized backend modules, **reducing API response time by 35%** via query optimization, pagination & indexing
-- Implemented **Redis caching** to cut DB load and speed up frequent API calls
-- Achieved **99.9% application availability** through performance monitoring & issue resolution
-- Containerized apps with **Docker** and contributed to **CI/CD** workflows
-
-</td>
 <td width="50%" valign="top">
 
 ### 🏢 Tata Consultancy Services
 **Systems Engineer**
 <br/>*Jan 2025 – Aug 2025 | New Delhi, India*
 
-- Developed & maintained enterprise Java apps using **Spring Boot, SQL & REST APIs** in Agile teams
+- Developed & maintained enterprise Java apps using **Node.js SQL & REST APIs** in Agile teams
 - Collaborated with senior engineers on backend enhancements & defect resolution
 - Handled debugging, testing, deployment validation & code reviews
 - Streamlined delivery using **Git, Maven & CI/CD pipelines**
